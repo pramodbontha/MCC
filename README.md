@@ -18,7 +18,22 @@
 - Word list: provided as _words.json_
 - Score list for each letter: provided as _scores.json_
 
-## Contact information
 
-- Please send the result in less than eight hours after the download to joachim.schoder@medikura.com
-- We will take a look at your code and arrange a followup interview regarding your code
+## Frontend - client
+The frontend is implemented using ReactJs. 
+To start the application, run the following commands:
+```
+cd client
+npm i
+npm start
+```
+
+## Backend - api-gateway
+
+It is implemented using Nodejs and Expressjs. 
+To start the server, run the following commands:
+```
+cd api
+npm i
+npm start
+```

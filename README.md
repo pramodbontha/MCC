@@ -42,4 +42,4 @@ npm start
 
 ## Changes Pending
 1. Some edge cases in the frontend input and the header.
-2. In the backend count from scores needs to be used and also remove the definition for last 5 words.
+2. In the backend, count from scores needs to be used and also remove the definition for last 5 words.

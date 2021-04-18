@@ -28,8 +28,7 @@ npm i
 npm start
 ```
 
-## Backend - api-gateway
-
+## Backend - api
 It is implemented using Nodejs and Expressjs. 
 To start the server, run the following commands:
 ```
@@ -37,3 +36,10 @@ cd api
 npm i
 npm start
 ```
+## Changes Finished
+1. Generates words and the api returns scores and definitions.
+2. Option to allow user to enter a sequence and a table showing the top 10 words with scores, definition and word length.
+
+## Changes Pending
+1. Some edge cases in the frontend input and the header.
+2. In the backend count from scores needs to be used and also remove the definition for last 5 words.
